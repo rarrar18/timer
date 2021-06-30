@@ -1,5 +1,4 @@
-// Implement an alarm clock / timer which will beep after a specified amount of time has passed. The user can specify an unlimited number of alarms using command line arguments
-
+// Implement an alarm clock / timer which will beep after a specified amount of time has passed. Specify an unlimited number of alarms using command line arguments
 // Returns array of command line arguments
 let input = (process.argv.slice(2));
 // Define function which beeps based on command line arguments
